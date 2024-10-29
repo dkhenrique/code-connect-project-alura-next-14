@@ -315,3 +315,5 @@
 {"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"angular-primeiros-passoss"}
 {"error":{},"level":"error","message":"Falha ao obter posts"}
 {"error":{},"level":"error","message":"Falha ao obter posts"}
+{"error":{"clientVersion":"5.21.1","name":"PrismaClientInitializationError"},"level":"error","message":"Falha ao obter posts"}
+{"error":{"clientVersion":"5.21.1","name":"PrismaClientInitializationError"},"level":"error","message":"Falha ao obter posts"}

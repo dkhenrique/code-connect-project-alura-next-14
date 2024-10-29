@@ -1,5 +1,5 @@
-import { Button } from './../Button'
-import styles from './searchform.module.css'
+import { Button } from '../Button'
+import styles from './searchForm.module.css'
 export const SearchForm = () => {
     return (<form className={styles.form} action='/'>
         <input 

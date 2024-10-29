@@ -1,5 +1,5 @@
 import { Prompt } from 'next/font/google'
-import { SearchForm } from './components/SeachForm';
+import { SearchForm } from './components/SearchForm';
 
 const prompt = Prompt({
   weight: ['400', '500', '600'],
