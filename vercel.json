@@ -12,7 +12,7 @@
     },
     "commands": {
       "build": "npm run build",
-      "postbuild": "npm run prisma:seed"
+      "postbuild": "npm run seed"
     }
   }
 }
