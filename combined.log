@@ -317,3 +317,4 @@
 {"error":{},"level":"error","message":"Falha ao obter posts"}
 {"error":{"clientVersion":"5.21.1","name":"PrismaClientInitializationError"},"level":"error","message":"Falha ao obter posts"}
 {"error":{"clientVersion":"5.21.1","name":"PrismaClientInitializationError"},"level":"error","message":"Falha ao obter posts"}
+{"error":{"clientVersion":"5.21.1","name":"PrismaClientInitializationError"},"level":"error","message":"Falha ao obter posts"}
