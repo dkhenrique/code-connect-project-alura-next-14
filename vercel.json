@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/node"
+    }
+  ],
+  "build": {
+    "env": {
+      "DATABASE_URL": "postgresql://postgres@localhost:5432/codeconnect_dev"
+    },
+    "commands": {
+      "build": "npm run build",
+      "postbuild": "npm run prisma:seed"
+    }
+  }
+}
