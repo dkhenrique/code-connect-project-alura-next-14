@@ -1,7 +1,7 @@
 'use client'
 
 import { useEffect } from "react"
-import { ArrowBack } from "./components/Icons/ArrowBack/page"
+import { ArrowBack } from "./components/Icons/ArrowBack"
 import Image from "next/image"
 import Link from "next/link"
 
